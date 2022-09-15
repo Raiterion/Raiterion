@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Raiterion/Raiterion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const raiterion = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "C#"],
+    askMeAbout: ["web dev", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Building Robots to ease opertations",
+};

@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+```
 const raiterion = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C#"],
@@ -17,3 +17,4 @@ const raiterion = {
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Building Robots to ease opertations",
 };
+```

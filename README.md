@@ -14,7 +14,7 @@ const raiterion = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "3D Web Apps"],
     currentFocus: "Building Robots to ease opertations",
 };
 ```
